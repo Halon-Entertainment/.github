@@ -2,16 +2,11 @@
 
 _What’s the purpose of this PR in relation to the assigned task?_
 
-> Example:  
-```
-
-Fixes an issue with `state problem` when `specific condition occurs`.
-
-```
+IE. Fixes an issue with `state problem` when `specific condition occurs`.
 
 ---
 
-## What Changed
+## Changes
 
 _Summarize the key technical or functional changes._
 
@@ -26,16 +21,11 @@ _Summarize the key technical or functional changes._
 
 _Link to the relevant Jira or issue tracker ID._
 
-- Example:  
-```
-
 [JIRA-1234](https://halon.atlassian.net/browse/JIRA-1234)
-
-```
 
 ---
 
-## How to Test
+## Testing
 
 _Step-by-step instructions for validating this change._
 
