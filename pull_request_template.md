@@ -29,10 +29,10 @@ _Link to the relevant Jira or issue tracker ID._
 
 _Step-by-step instructions for validating this change._
 
-1. [ ] Set up the environment or input scenario
-2. [ ] Run the affected tool/module/script
-3. [ ] Perform the action related to the change
-4. [ ] Confirm expected output or behavior
+1. Set up the environment or input scenario
+2. Run the affected tool/module/script
+3. Perform the action related to the change
+4. Confirm expected output or behavior
 
 ---
 
